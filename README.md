@@ -1,15 +1,20 @@
-**Weight Converter**
+**Text Editor**
 
-A simple JavaFX application that converts weight between kilograms and pounds.
+A JavaFX-based text editor that allows users to create, open, edit, and save text files.
 
 **Features**
 
-- Convert weight from kilograms to pounds and vice versa.
-- User-friendly interface with text input, choice selection, and a calculate button.
-- Displays error messages for invalid input.
+- Open and edit text files.
+- Save text files with a custom name.
+- Create new documents.
+- Basic editing functions: Cut, Copy, and Paste.
+- User-friendly graphical interface with JavaFX.
+- Displays alerts for errors or important actions.
 
 **Usage**
 
-- Enter a weight value in the text field.
-- Select the unit (Kilograms or Pounds) from the choice box.
-- Click the "Calculate" button to see the converted result.
+- Click "Open" to load a .txt file into the editor.
+- Edit the text as needed.
+- Click "Save" to save the text to a file.
+- Click "New" to start a new document (warning will appear before clearing text).
+- Use "Cut," "Copy," and "Paste" buttons for text manipulation.
