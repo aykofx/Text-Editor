@@ -18,3 +18,10 @@ A JavaFX-based text editor that allows users to create, open, edit, and save tex
 - Click "Save" to save the text to a file.
 - Click "New" to start a new document (warning will appear before clearing text).
 - Use "Cut," "Copy," and "Paste" buttons for text manipulation.
+
+**Requirements**
+- Java 11 or newer
+- JavaFX SDK
+
+**Running the App**
+- Compile and run your JavaFX application as usual. Make sure JavaFX libraries are properly linked.
